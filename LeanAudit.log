@@ -1,0 +1,13 @@
+Lean (version 4.19.0, x86_64-unknown-linux-gnu, commit 6caaee842e94, Release)
+Lake version 5.0.0-6caaee8 (Lean version 4.19.0)
+Mathlib commit c44e0c8ee63ca166450922a373c7409c5d26b00b
+5a1158b1d208ce66ba983d2998f5a6e3b65918b0585926eb07328f2c588e97ec  /workspace/scratch/5c7ec5fc3749/ribbon/Ribbon.lean
+Checking Ribbon.lean with lake env lean -DwarningAsError=true -o <temporary .olean>
+'Ribbon.surviving_side_edge' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Ribbon.no_top_product_term' depends on axioms: [propext, Quot.sound]
+'Ribbon.delete_chords' does not depend on any axioms
+'Ribbon.unit_square' depends on axioms: [propext]
+'Ribbon.rank_three_hook' depends on axioms: [propext]
+'Ribbon.rank_three_staircase' depends on axioms: [propext]
+'Ribbon.rank_four_circuit' depends on axioms: [propext]
+Lean process exit status 0. Compiled module present.

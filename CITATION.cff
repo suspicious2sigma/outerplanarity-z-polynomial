@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the version of this research note and Lean materials that you used."
+title: "Outerplanarity from the Z-polynomial of a graphic matroid"
+authors:
+  - family-names: Raj
+    given-names: Steve
+version: 1.0.0
+abstract: >-
+  A research note characterizing outerplanarity of finite simple 2-connected
+  graphs by their graphic matroid Z-polynomials and establishing the
+  Narayana Z-polynomial identity for connected ribbon lattice path matroids.
+  The release includes the original note dated November 25, 2026 and partial
+  Lean 4 verification materials.
+keywords:
+  - outerplanar graphs
+  - graphic matroids
+  - matroid Z-polynomials
+  - Narayana polynomials
+  - ribbon lattice path matroids
+  - Lean 4
